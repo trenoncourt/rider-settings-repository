@@ -13,12 +13,17 @@
   </action>
   <action id="Console.TableResult.ColumnsList" />
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Diff.SelectedChange" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="FileStructurePopup" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -31,10 +36,15 @@
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="JumpToLastWindow" />
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>

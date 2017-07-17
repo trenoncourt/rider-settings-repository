@@ -4,5 +4,6 @@
       <action id="CheckinProject" />
       <shortuct text="control C" />
     </macro>
+    <macro name="new_file" />
   </component>
 </application>
