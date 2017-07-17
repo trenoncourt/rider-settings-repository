@@ -13,6 +13,13 @@
   </action>
   <action id="Console.TableResult.ColumnsList" />
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Diff.SelectedChange" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -43,8 +50,16 @@
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
+  <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.UpdateProject" />
+  <action id="hg4idea.QRefresh" />
 </keymap>
