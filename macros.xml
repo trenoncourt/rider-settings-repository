@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="vs_comment">
-      <action id="CheckinProject" />
-      <shortuct text="control C" />
-    </macro>
-  </component>
-</application>
